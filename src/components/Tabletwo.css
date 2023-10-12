@@ -1,0 +1,16 @@
+.T1 {
+
+    position: relative;
+    bottom: 70px;
+
+
+
+}
+
+.bgImage {
+    /* background-image: url("https://cdn.pixabay.com/photo/2020/10/11/09/04/peak-5645235_1280.jpg"); */
+    background-image: url(/public/Asset/alpine-7703065.jpg);
+    background-size: cover;
+
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,33 @@
+.sidebar-item {
+  padding: 4px;
+  margin: 2px;
+  color: white;
+  transition: background-color 0.3s;
+}
+
+.sidebar-item:hover {
+  background-color: #fbf8f8;
+}
+
+/* Dashboard.css */
+
+/* Style for the scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track styles */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle styles */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 2px;
+}
+
+/* Handle hover styles */
+::-webkit-scrollbar-thumb:hover {
+  background: #b6b4b4;
+}
